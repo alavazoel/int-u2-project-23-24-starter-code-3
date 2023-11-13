@@ -1,6 +1,9 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
-    color: white;
+    background-color: #253e7a;
+    color: #6ca2cc;
     padding: 128px 16px;
+}
+.quarter-pic {
+  width: 190px;
 }
